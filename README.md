@@ -55,7 +55,7 @@ biased-voronoi-foam/
 
 The simulation output (`foam_data_periodic.h5`, ~200 MB) is too large for GitHub and is hosted on Zenodo:
 
-> **[Data on Zenodo — DOI: TBD]**
+> **DOI: [10.5281/zenodo.19058387](https://doi.org/10.5281/zenodo.19058387)**
 
 Download the HDF5 file and place it in the repo root before running the analysis script.
 
