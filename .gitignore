@@ -1,0 +1,17 @@
+# Data (too large for GitHub — host on Zenodo)
+*.h5
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.fls
+*.fdb_latexmk
+*.log
+*.synctex.gz
+
+# System
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
